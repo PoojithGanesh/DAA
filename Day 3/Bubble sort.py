@@ -12,4 +12,3 @@ def bubble_sort(arr):
 # Test cases
 print(bubble_sort([5, 2, 9, 1, 5, 6]))
 print(bubble_sort([10, 8, 6, 4, 2]))
-print(bubble_sort([1, 2, 3, 4, 5]))
